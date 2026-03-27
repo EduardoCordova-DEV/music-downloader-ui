@@ -1,6 +1,8 @@
-# 🎵 SVMPLER — Music Downloader UI
+# 🎵 Eduardo Cordova DEV — Music Downloader UI
 
 > A clean, modern UI for downloading high-quality music tracks powered by [yt-dlp](https://github.com/yt-dlp/yt-dlp).
+
+![Preview](./docs/preview.gif)
 
 ![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=flat-square&logo=typescript)
