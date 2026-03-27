@@ -2,12 +2,14 @@
 
 > A clean, modern UI for downloading high-quality music tracks powered by [yt-dlp](https://github.com/yt-dlp/yt-dlp).
 
-![Preview](./docs/preview.gif)
-
 ![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=flat-square&logo=typescript)
 ![Vite](https://img.shields.io/badge/Vite-6-646CFF?style=flat-square&logo=vite)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-4-06B6D4?style=flat-square&logo=tailwindcss)
+
+---
+
+![Preview](./docs/preview.gif)
 
 ---
 
@@ -144,3 +146,4 @@ MIT © [EduardoCordova-DEV](https://github.com/EduardoCordova-DEV)
 ---
 
 <p align="center">Made with ❤️ for music lovers</p>
+"# music-downloader-ui" 
